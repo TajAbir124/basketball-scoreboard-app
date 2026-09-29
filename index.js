@@ -6,12 +6,12 @@ let homePnts = 0,guestPnts = 0
 
 
 function addScore(team,points){
-    if(team == "home")
+    if(team == 'home')
     {
         homePnts+=points
        homeScore.textContent = homePnts
     }
-    if(team == "guest")
+    if(team == 'guest')
     {
         guestPnts+=points
        guestScore.textContent = guestPnts
