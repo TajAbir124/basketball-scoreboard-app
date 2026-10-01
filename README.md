@@ -1,6 +1,7 @@
 # Basketball scoreboard application
 ## Features
-- Home team and guest team's score can be incremented using 3 different point buttons (+1,+2,+3)
+- Increment the home and guest team scores using three different point buttons: +1, +2, and +3
+- separate scoring controls for home and guest team
 ## Technologies used
 - HTML
 - CSS
